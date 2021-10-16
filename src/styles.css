@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.header {
+  background-color: #303846;
+  padding: 150px;
+}
+.header h3 {
+  font-size: xx-large;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+}
+.content {
+  background-color: rgb(18, 71, 218);
+  padding: 25px;
+}
+.BigPipe {
+  padding: 100px;
+}
+.footer {
+  background-color: #303846;
+  padding: 25px;
+}
+.footer h4 {
+  color: white;
+  font-family: sans-serif;
+}
+.BigPipe h4#smalltext {
+  position: relative;
+}
+.header p {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
